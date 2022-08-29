@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newItem"
+        android:icon="@drawable/addcircle"
+        android:title="Nueva" />
+    <item
+        android:id="@+id/listItem"
+        android:icon="@drawable/ballot"
+        android:title="Lista" />
+</menu>
