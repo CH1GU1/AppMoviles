@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432050207254",
+    "project_id": "authintro-2cde3",
+    "storage_bucket": "authintro-2cde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432050207254:android:282ea82371fe5b09101337",
+        "android_client_info": {
+          "package_name": "com.example.authclase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432050207254-uh27m2cunhtuogcsqb5ugr5spq9bsq7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQhdGf2EK9SqNSqOzakHjW85RPX4qUTtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432050207254-uh27m2cunhtuogcsqb5ugr5spq9bsq7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
