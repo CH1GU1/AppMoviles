@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880248346433",
+    "project_id": "firestoreejemplokotlinkevin",
+    "storage_bucket": "firestoreejemplokotlinkevin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880248346433:android:7a8b101639e93f52f273c0",
+        "android_client_info": {
+          "package_name": "com.example.firestoreejemplokotlinkevin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880248346433-nap1gar8ql6mo6l65vbs5cl6frt79ums.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBckCoFAqOgKTJWymoMEbf4-VnmFTGy40o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880248346433-nap1gar8ql6mo6l65vbs5cl6frt79ums.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
